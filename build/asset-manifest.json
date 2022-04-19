@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd251835.css",
+    "main.js": "/static/js/main.5bc2d2c9.js",
+    "static/js/787.44034607.chunk.js": "/static/js/787.44034607.chunk.js",
+    "static/media/hardwareimg3.jpg": "/static/media/hardwareimg3.a09d253acd64a0c62c5c.jpg",
+    "static/media/softwaress.png": "/static/media/softwaress.90a67add6149c0380926.png",
+    "static/media/sensorimg.png": "/static/media/sensorimg.9cb80f6f8c1761730a75.png",
+    "static/media/carouselimage1.png": "/static/media/carouselimage1.c674274aced7e911ef56.png",
+    "static/media/hardwareimg4.jpg": "/static/media/hardwareimg4.d1a4a028f34108fc3495.jpg",
+    "static/media/carouselimage2.png": "/static/media/carouselimage2.2bc845bb0c660f80c44e.png",
+    "static/media/companyimage.jpg": "/static/media/companyimage.b2072b120aa9ec410906.jpg",
+    "static/media/logo1.png": "/static/media/logo1.21c68c488de63fed1e6e.png",
+    "static/media/logo3.png": "/static/media/logo3.b50cd82326c556321ab3.png",
+    "static/media/hardwareimg1.png": "/static/media/hardwareimg1.aaed3a8a4d3493e16bae.png",
+    "static/media/logo2.png": "/static/media/logo2.bef5029adbdec97e95b9.png",
+    "static/media/logo.png": "/static/media/logo.7d5d34e619d2ccb58564.png",
+    "static/media/carouselimage3.png": "/static/media/carouselimage3.78f2fcb123ee7947f994.png",
+    "static/media/maidenlogo2.png": "/static/media/maidenlogo2.b91bffbfe56dac7fb136.png",
+    "static/media/hardwareimg5.jpg": "/static/media/hardwareimg5.f900f91bac733041b841.jpg",
+    "static/media/hardwareimg2.jpg": "/static/media/hardwareimg2.b4994b8b063279743e02.jpg",
+    "index.html": "/index.html",
+    "main.cd251835.css.map": "/static/css/main.cd251835.css.map",
+    "main.5bc2d2c9.js.map": "/static/js/main.5bc2d2c9.js.map",
+    "787.44034607.chunk.js.map": "/static/js/787.44034607.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd251835.css",
+    "static/js/main.5bc2d2c9.js"
+  ]
+}
